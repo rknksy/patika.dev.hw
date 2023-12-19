@@ -1,4 +1,4 @@
---patika.dev SQL HW#3
+--patika.dev SQL HW#4
 --1.
 SELECT DISTINCT replacement_cost FROM film;
 --2
