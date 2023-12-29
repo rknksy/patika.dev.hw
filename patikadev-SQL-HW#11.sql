@@ -1,4 +1,4 @@
-
+-- patika.dev SQL HW#11
 --1
 (SELECT first_name FROM actor)
 UNION ALL
